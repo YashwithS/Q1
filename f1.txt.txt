@@ -7,3 +7,7 @@ Difference between amend and reset command
 to change and commit if you want to replace from staging and repository
 Welcome to banglore
 Hello there
+
+Ohio gozaimas
+Konichiwa
+Mosimas Daijob deska
