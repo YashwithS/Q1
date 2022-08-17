@@ -1,0 +1,9 @@
+narutooooooo
+hello
+line 1 added
+Difference between amend and reset command
+1) amend replaces last commit and even replaces from staging and repository
+2) reset can be used to reset to any commit pointer but it does not removes from staging and repository. You need 
+to change and commit if you want to replace from staging and repository
+Welcome to banglore
+Hello there
